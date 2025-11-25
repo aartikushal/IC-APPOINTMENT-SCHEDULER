@@ -25,6 +25,7 @@ This repository contains an automated appointment scheduling system that allows 
 ---
 
 ## 🧱 System Architecture
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/915a2064-ea25-4c9e-a044-494545432aba" />
 
 **Components & Purpose**
 
